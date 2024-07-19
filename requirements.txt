@@ -1,0 +1,45 @@
+# packaging
+pip>=9
+setuptools>=26
+twine
+wheel>=0.29
+
+# data science
+seaborn
+numpy==1.23.5
+pandas==1.5.3
+DateTime
+
+# tests/linter
+black
+coverage
+flake8
+pytest
+yapf
+
+
+
+# utilities
+six>=1.14
+joblib
+memoized-property
+termcolor
+
+# data cleaning
+fancyimpute
+
+
+
+nbresult
+colorama
+ipdb
+ipykernel
+yapf
+tensorflow
+matplotlib
+pygeohash
+pytest
+db-dtypes #conect with data base
+pyarrow
+
+python-dotenv
